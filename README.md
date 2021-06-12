@@ -17,12 +17,12 @@ Here we have gifs:
 --------------------------------------------------------------------------------------------------------------------
 *QR CODE*
 
-![](doc/img/QR_code.jpg)
+![](doc/img/QR_code.png)
 --------------------------------------------------------------------------------------------------------------------
 *To install application You should download MIT AI2 Companion app*
 
-![](doc/img/MIT_AI2_Companion.jpg)
+![](doc/img/MIT_AI2_Companion.png)
 --------------------------------------------------------------------------------------------------------------------
 *After installation You should see the application*
 
-![](doc/img/app.jpg)
+![](doc/img/app.png)
