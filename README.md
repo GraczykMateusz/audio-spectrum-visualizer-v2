@@ -8,6 +8,9 @@ The most important component of my project is MSGEQ7 which is the seven band gra
 that divides the audio spectrum into seven bands.
 This time I used Arduino Nano because I wanted to keep the electronic circuit in a minimalist form.
 Here we have gifs:
+
+--------------------------------------------------------------------------------------------------------------------
+
 ![](doc/gif/demo.gif)
 
 --------------------------------------------------------------------------------------------------------------------
