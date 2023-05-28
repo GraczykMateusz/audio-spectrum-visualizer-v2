@@ -22,7 +22,7 @@ Here we have gifs:
 
 ![](doc/img/QR_code.png)
 --------------------------------------------------------------------------------------------------------------------
-*To install application You should download MIT AI2 Companion app*
+*To install application You should download MIT AI2 Companion app* and scan QR CODE or use .apk file, which is inside mobile dir
 
 ![](doc/img/MIT_AI2_Companion.png)
 --------------------------------------------------------------------------------------------------------------------
